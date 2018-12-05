@@ -1,5 +1,4 @@
 # simple-java-maven-app
-testing project 
 
 Poll scm changes are added
 This repository is for the
